@@ -1,6 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
-# Author: Alfredo Hernández <aldomann.designs>
+# Author: Alfredo Hernández <aldomann.designs@gmail.com>
 #
 # Description:
 #	The idea of this method is using the fact that the function

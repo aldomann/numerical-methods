@@ -1,5 +1,7 @@
-#!/usr/bin/python
-# Author: Alfredo Hern√°ndez <aldomann.designs>
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Author: Alfredo Hern·ndez <aldomann.designs@gmail.com>
 
 from random import random
 from math import *

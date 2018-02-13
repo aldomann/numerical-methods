@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Author: Alfredo Hernández <aldomann.designs@gmail.com>
+
+
 from random import random
 from math import *
 

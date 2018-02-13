@@ -1,5 +1,7 @@
-#!/usr/bin/python
-# Author: Alfredo Hernández <aldomann.designs>
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+# Author: Alfredo Hernández <aldomann.designs@gmail.com>
 
 print("This programs tests if a number is prime using trial division.")
 number = int(input("Choose a number: "))
